@@ -18,13 +18,13 @@ const Table = ({ lists, date }) => {
 
         return(
           <tr key={`${list.list_name}-${book.title}`}>
-            <td>{list.list_name}</td>
-            <td>{book.title}</td>
-            <td>{book.author}</td>
-            <td>{book.description}</td>
-            <td>{book.publisher}</td>
-            <td>{book.rank}</td>
-            <td>{purchaseLinks}</td>
+            <td className='list-name'>{list.list_name}</td>
+            <td className='book-title'>{book.title}</td>
+            <td className='book-author'>{book.author}</td>
+            <td className='book-description'>{book.description}</td>
+            <td className='book-publisher'>{book.publisher}</td>
+            <td className='book-rank'>{book.rank}</td>
+            <td className='book-purchase-links'>{purchaseLinks}</td>
           </tr>
         );
       });
