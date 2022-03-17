@@ -9,8 +9,8 @@ const Table = ({ lists, date }) => {
 
   const renderTableRows = () => {
     const allRows = [];
+    
     lists.forEach(list => {
-
       const listRows = list.books.map(book => {
         const purchaseLinks = book.buy_links.map(link => {
           return <a href={link.url} key={`${book.title}-${link.name}`}>{link.name}</a>
@@ -18,27 +18,13 @@ const Table = ({ lists, date }) => {
 
         return(
           <tr key={`${list.list_name}-${book.title}`}>
-            <td>
-              {list.list_name}
-            </td>
-            <td>
-              {book.title}
-            </td>
-            <td>
-              {book.author}
-            </td>
-            <td>
-              {book.description}
-            </td>
-            <td>
-              {book.publisher}
-            </td>
-            <td>
-              {book.rank}
-            </td>
-            <td>
-              {purchaseLinks}
-            </td>
+            <td>{list.list_name}</td>
+            <td>{book.title}</td>
+            <td>{book.author}</td>
+            <td>{book.description}</td>
+            <td>{book.publisher}</td>
+            <td>{book.rank}</td>
+            <td>{purchaseLinks}</td>
           </tr>
         );
       });
@@ -47,12 +33,16 @@ const Table = ({ lists, date }) => {
     return allRows;
   }
   
+  const formatDate = () => {
+    const formattedDate = new Date(date).toDateString().split(' ');
+    formattedDate.shift();
+    return formattedDate[0] + ' ' + formattedDate[1] + ', ' + formattedDate[2];
+  }
+  
   return (
-    <main className='table-container'>
-      <p>
-        Currently Viewing {date} week's list
-      </p>
-      <p>
+    <main className='Table'>
+      <p className='date'>Currently viewing the list for the week of {formatDate()}</p>
+      <p className='number-of-entries'>
         Number of entries: {calculateNumberOfEntries()}
       </p>
       <table>
