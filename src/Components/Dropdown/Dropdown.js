@@ -27,7 +27,7 @@ const Dropdown = ({setSelectedList, selectedList, options}) => {
   }
   return (
     <div className='Dropdown'>
-      <label htmlFor='dropdown'>
+      <label htmlFor='dropdown' className='dropdown-label'>
         Select Bestseller List
       </label>
       <select
