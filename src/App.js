@@ -26,16 +26,25 @@ const App = () => {
     }
   }
   
-  return (
-    <div className="App">
-      <h1>New York Times Bestsellers List</h1>
-      <Dropdown 
-        setSelectedList={setSelectedList} 
-        options={lists.map(list => list.list_name)}
-        selectedList={selectedList} />
-      <Table lists={getFilteredLists()} date={date} />
-    </div>
-  )
+  if (!lists.length) {
+    return (
+      <div className="App">
+        <h1>New York Times Bestsellers List</h1>
+        <h2 className='loading'>Loading...</h2>
+      </div>
+    );
+  } else {
+    return (
+      <div className="App">
+        <h1>New York Times Bestsellers List</h1>
+        <Dropdown 
+          setSelectedList={setSelectedList} 
+          options={lists.map(list => list.list_name)}
+          selectedList={selectedList} />
+        <Table lists={getFilteredLists()} date={date} />
+      </div>
+    );
+  }
 }
 
 export default App;
