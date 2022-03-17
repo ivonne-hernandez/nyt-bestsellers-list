@@ -17,6 +17,14 @@ const App = () => {
         setDate(data.results.bestsellers_date)
       });
   }, []);
+
+  const getFilteredLists = () => {
+    if (selectedList === 'All') {
+      return lists;
+    } else {
+      return lists.filter(list => list.list_name === selectedList);
+    }
+  }
   
   return (
     <div className="App">
@@ -25,7 +33,7 @@ const App = () => {
         setSelectedList={setSelectedList} 
         options={lists.map(list => list.list_name)}
         selectedList={selectedList} />
-      <Table lists={lists} date={date} />
+      <Table lists={getFilteredLists()} date={date} />
     </div>
   )
 }
