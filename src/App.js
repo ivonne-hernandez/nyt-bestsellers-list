@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 import { getCurrentWeeksBestSellers } from './apiCalls';
+import Table from './Components/Table/Table.js';
+
 import './App.css';
 
 const App = () => {
@@ -17,6 +19,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>New York Times Bestsellers List</h1>
+      <Table lists={lists} date={date} />
     </div>
   )
 }
