@@ -13,7 +13,7 @@ const Table = ({ lists, date }) => {
     lists.forEach(list => {
       const listRows = list.books.map(book => {
         const purchaseLinks = book.buy_links.map(link => {
-          return <a href={link.url} key={`${book.title}-${link.name}`}>{link.name}</a>
+          return <a href={link.url} key={`${book.title}-${link.name}`} className='purchase-link'>{link.name}</a>
         });
 
         return(
@@ -45,36 +45,38 @@ const Table = ({ lists, date }) => {
       <p className='number-of-entries'>
         Number of entries: {calculateNumberOfEntries()}
       </p>
-      <table>
-        <thead>
-          <tr>
-            <th>
-              List Name
-            </th>
-            <th>
-              Title
-            </th>
-            <th>
-              Author(s)
-            </th>
-            <th>
-              Description
-            </th>
-            <th>
-              Publisher
-            </th>
-            <th>
-              Current Rank
-            </th>
-            <th>
-              Purchase Links
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          {renderTableRows()}
-        </tbody>
-      </table>
+      <div className='table-container'>
+        <table>
+          <thead className='head-of-table-columns'>
+            <tr>
+              <th>
+                List Name
+              </th>
+              <th>
+                Title
+              </th>
+              <th>
+                Author(s)
+              </th>
+              <th>
+                Description
+              </th>
+              <th>
+                Publisher
+              </th>
+              <th>
+                Current Rank
+              </th>
+              <th>
+                Purchase Links
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {renderTableRows()}
+          </tbody>
+        </table>
+      </div>
     </main>
   )
 }

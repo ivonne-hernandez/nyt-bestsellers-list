@@ -1,0 +1,32 @@
+.table-container {
+  width: 77%;
+  margin-left: 11.5%;
+  margin-right: 11.5%;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  min-width: 11vw;
+  border-bottom: 1px solid black;
+}
+
+thead>tr {
+  position: relative;
+  display: block;
+}
+
+tbody {
+  display: block;
+  height: 60vh;
+  overflow: auto;
+}
+
+.purchase-link {
+  display: block;
+}
