@@ -1,0 +1,1075 @@
+{
+  "results":{
+     "bestsellers_date":"2022-03-12",
+     "published_date":"2022-03-27",
+     "published_date_description":"latest",
+     "previous_published_date":"2022-03-20",
+     "next_published_date":"",
+     "lists":[
+        {
+           "list_id":10015,
+           "list_name":"Middle Grade Paperback Monthly",
+           "list_name_encoded":"middle-grade-paperback-monthly",
+           "display_name":"Middle Grade Paperback",
+           "updated":"MONTHLY",
+           "list_image":null,
+           "list_image_width":null,
+           "list_image_height":null,
+           "books":[
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/The-Only-Ivan-Katherine-Applegate\/dp\/0061992275?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Katherine Applegate.",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780061992278.jpg",
+                 "book_image_width":330,
+                 "book_image_height":466,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/f6738b4d-ccb6-5abe-9fa1-1db4ff0313c0",
+                 "contributor":"by Katherine Applegate. Illustrated by Patricia Castelao",
+                 "contributor_note":"Illustrated by Patricia Castelao",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0061992275",
+                 "primary_isbn13":"9780061992278",
+                 "publisher":"HarperCollins",
+                 "rank":1,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"THE ONE AND ONLY IVAN",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/The-Only-Ivan-Katherine-Applegate\/dp\/0061992275?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780061992278?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780061992278"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BONE%252BAND%252BONLY%252BIVAN%252FKatherine%252BApplegate.%252F9780061992278&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BONE%252BAND%252BONLY%252BIVAN%252BKatherine%252BApplegate."
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780061992278&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BONE%2BAND%2BONLY%2BIVAN"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780061992278%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BONE%2BAND%2BONLY%2BIVAN%2BKatherine%2BApplegate.%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/dp\/1534477578?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Amanda Foody",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781534477575.jpg",
+                 "book_image_width":340,
+                 "book_image_height":500,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/670772c4-0cd7-5519-b9f4-92a4f3a52324",
+                 "contributor":"by Amanda Foody",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1534477578",
+                 "primary_isbn13":"9781534477575",
+                 "publisher":"Margaret K. McElderry",
+                 "rank":2,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"THE ACCIDENTAL APPRENTICE",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/dp\/1534477578?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781534477575?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781534477575"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BACCIDENTAL%252BAPPRENTICE%252FAmanda%252BFoody%252F9781534477575&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BACCIDENTAL%252BAPPRENTICE%252BAmanda%252BFoody"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781534477575&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BACCIDENTAL%2BAPPRENTICE"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781534477575%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BACCIDENTAL%2BAPPRENTICE%2BAmanda%2BFoody%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Long-Walk-Water-Based-Story\/dp\/0547577311?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Linda Sue Park",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780547577319.jpg",
+                 "book_image_width":328,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/72728168-095d-521b-90d2-2380bdc74220",
+                 "contributor":"by Linda Sue Park",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0547577311",
+                 "primary_isbn13":"9780547577319",
+                 "publisher":"Clarion",
+                 "rank":3,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"A LONG WALK TO WATER",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Long-Walk-Water-Based-Story\/dp\/0547577311?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780547577319?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780547577319"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BLONG%252BWALK%252BTO%252BWATER%252FLinda%252BSue%252BPark%252F9780547577319&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BLONG%252BWALK%252BTO%252BWATER%252BLinda%252BSue%252BPark"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780547577319&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DA%2BLONG%2BWALK%2BTO%2BWATER"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780547577319%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BLONG%2BWALK%2BTO%2BWATER%2BLinda%2BSue%2BPark%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/Restart-Gordon-Korman\/dp\/1338053809?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Gordon Korman",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781338053807.jpg",
+                 "book_image_width":330,
+                 "book_image_height":480,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/33e0a0a4-8158-58ef-9e88-1c49b4167580",
+                 "contributor":"by Gordon Korman",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1338053809",
+                 "primary_isbn13":"9781338053807",
+                 "publisher":"Scholastic",
+                 "rank":4,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"RESTART",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/Restart-Gordon-Korman\/dp\/1338053809?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781338053807?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338053807"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FRESTART%252FGordon%252BKorman%252F9781338053807&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DRESTART%252BGordon%252BKorman"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781338053807&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DRESTART"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781338053807%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DRESTART%2BGordon%2BKorman%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Crenshaw-Katherine-Applegate\/dp\/1250043239?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Katherine Applegate",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781250043238.jpg",
+                 "book_image_width":330,
+                 "book_image_height":484,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/2dd5c105-5f7d-5ae1-aa70-1d87754b28d7",
+                 "contributor":"by Katherine Applegate",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1250091667",
+                 "primary_isbn13":"9781250091666",
+                 "publisher":"Square Fish",
+                 "rank":5,
+                 "rank_last_week":0,
+                 "sunday_review_link":"https:\/\/www.nytimes.com\/2015\/11\/08\/books\/review\/crenshaw-by-katherine-applegate.html",
+                 "title":"CRENSHAW",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Crenshaw-Katherine-Applegate\/dp\/1250043239?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781250091666?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250091666"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCRENSHAW%252FKatherine%252BApplegate%252F9781250091666&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCRENSHAW%252BKatherine%252BApplegate"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250091666&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCRENSHAW"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250091666%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCRENSHAW%2BKatherine%2BApplegate%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/Wish-Barbara-OConnor\/dp\/1250144051?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Barbara O'Connor",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781250144058.jpg",
+                 "book_image_width":330,
+                 "book_image_height":485,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/46604242-8624-57d1-bdd4-424c21cde273",
+                 "contributor":"by Barbara O'Connor",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1250144051",
+                 "primary_isbn13":"9781250144058",
+                 "publisher":"Square Fish",
+                 "rank":6,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"WISH",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/Wish-Barbara-OConnor\/dp\/1250144051?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781250144058?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250144058"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWISH%252FBarbara%252BO%252527Connor%252F9781250144058&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWISH%252BBarbara%252BO%252527Connor"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250144058&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWISH"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250144058%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWISH%2BBarbara%2BO%2527Connor%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/Wolf-Called-Wander-Rosanne-Parry\/dp\/0062895931?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Rosanne Parry.",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780062895936.jpg",
+                 "book_image_width":328,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/3ad02fce-f782-5509-b245-ffa6559cd5d8",
+                 "contributor":"by Rosanne Parry. Illustrated by M\u00f3nica Armi\u00f1o",
+                 "contributor_note":"Illustrated by M\u00f3nica Armi\u00f1o",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"006289594X",
+                 "primary_isbn13":"9780062895943",
+                 "publisher":"Greenwillow",
+                 "rank":7,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"A WOLF CALLED WANDER",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/Wolf-Called-Wander-Rosanne-Parry\/dp\/0062895931?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780062895943?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062895943"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BWOLF%252BCALLED%252BWANDER%252FRosanne%252BParry.%252F9780062895943&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BWOLF%252BCALLED%252BWANDER%252BRosanne%252BParry."
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062895943&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DA%2BWOLF%2BCALLED%2BWANDER"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062895943%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BWOLF%2BCALLED%2BWANDER%2BRosanne%2BParry.%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Out-My-Mind-Sharon-Draper\/dp\/1416971718?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Sharon M. Draper",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781416971719.jpg",
+                 "book_image_width":330,
+                 "book_image_height":491,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/82d77c01-610e-563e-8f14-073084cd4a58",
+                 "contributor":"by Sharon M. Draper",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1416971718",
+                 "primary_isbn13":"9781416971719",
+                 "publisher":"Atheneum",
+                 "rank":8,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"OUT OF MY MIND",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Out-My-Mind-Sharon-Draper\/dp\/1416971718?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781416971719?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781416971719"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FOUT%252BOF%252BMY%252BMIND%252FSharon%252BM.%252BDraper%252F9781416971719&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DOUT%252BOF%252BMY%252BMIND%252BSharon%252BM.%252BDraper"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781416971719&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DOUT%2BOF%2BMY%2BMIND"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781416971719%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DOUT%2BOF%2BMY%2BMIND%2BSharon%2BM.%2BDraper%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/dp\/1547606657?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Ren\u00e9e Watson.",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781547606658.jpg",
+                 "book_image_width":336,
+                 "book_image_height":500,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/bdc505cb-1929-5745-a419-7f4c4f6dbafd",
+                 "contributor":"by Ren\u00e9e Watson. Illustrated by Nina Mata",
+                 "contributor_note":"Illustrated by Nina Mata",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"",
+                 "primary_isbn13":"9781547606658",
+                 "publisher":"Bloomsbury",
+                 "rank":9,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"WAYS TO MAKE SUNSHINE",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/dp\/1547606657?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781547606658?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781547606658"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWAYS%252BTO%252BMAKE%252BSUNSHINE%252FRen%2525C3%2525A9e%252BWatson.%252F9781547606658&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWAYS%252BTO%252BMAKE%252BSUNSHINE%252BRen%2525C3%2525A9e%252BWatson."
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781547606658&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWAYS%2BTO%2BMAKE%2BSUNSHINE"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781547606658%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWAYS%2BTO%2BMAKE%2BSUNSHINE%2BRen%25C3%25A9e%2BWatson.%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Brown-Girl-Dreaming-Jacqueline-Woodson\/dp\/0399252517?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Jacqueline Woodson",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780399252518.jpg",
+                 "book_image_width":330,
+                 "book_image_height":488,
+                 "book_review_link":"https:\/\/www.nytimes.com\/2014\/08\/24\/books\/review\/jacqueline-woodsons-brown-girl-dreaming.html",
+                 "book_uri":"nyt:\/\/book\/890ab26d-bfa4-58ba-b9b5-c4dc967ce8b9",
+                 "contributor":"by Jacqueline Woodson",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:17",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0147515823",
+                 "primary_isbn13":"9780147515827",
+                 "publisher":"Nancy Paulsen",
+                 "rank":10,
+                 "rank_last_week":0,
+                 "sunday_review_link":"https:\/\/www.nytimes.com\/2014\/08\/24\/books\/review\/jacqueline-woodsons-brown-girl-dreaming.html",
+                 "title":"BROWN GIRL DREAMING",
+                 "updated_date":"2022-03-03 00:03:17",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Brown-Girl-Dreaming-Jacqueline-Woodson\/dp\/0399252517?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780147515827?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780147515827"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBROWN%252BGIRL%252BDREAMING%252FJacqueline%252BWoodson%252F9780147515827&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBROWN%252BGIRL%252BDREAMING%252BJacqueline%252BWoodson"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780147515827&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBROWN%2BGIRL%2BDREAMING"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780147515827%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBROWN%2BGIRL%2BDREAMING%2BJacqueline%2BWoodson%26aff%3DNYT"
+                    }
+                 ]
+              }
+           ]
+        },
+        {
+           "list_id":10016,
+           "list_name":"Young Adult Paperback Monthly",
+           "list_name_encoded":"young-adult-paperback-monthly",
+           "display_name":"Young Adult Paperback",
+           "updated":"MONTHLY",
+           "list_image":null,
+           "list_image_width":null,
+           "list_image_height":null,
+           "books":[
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/They-Both-Die-at-End\/dp\/0062457799?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Adam Silvera",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780062457790.jpg",
+                 "book_image_width":327,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/ee569b8a-1b59-5af7-ab27-c6e697978460",
+                 "contributor":"by Adam Silvera",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0062457802",
+                 "primary_isbn13":"9780062457806",
+                 "publisher":"Quill Tree",
+                 "rank":1,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"THEY BOTH DIE AT THE END",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/They-Both-Die-at-End\/dp\/0062457799?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780062457806?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062457806"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHEY%252BBOTH%252BDIE%252BAT%252BTHE%252BEND%252FAdam%252BSilvera%252F9780062457806&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHEY%252BBOTH%252BDIE%252BAT%252BTHE%252BEND%252BAdam%252BSilvera"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062457806&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHEY%2BBOTH%2BDIE%2BAT%2BTHE%2BEND"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062457806%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHEY%2BBOTH%2BDIE%2BAT%2BTHE%2BEND%2BAdam%2BSilvera%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/We-Were-Liars-E-Lockhart-ebook\/dp\/B00FPOSDGY?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"E. Lockhart",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780375984402.jpg",
+                 "book_image_width":128,
+                 "book_image_height":194,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/a474c5c9-ee75-5774-bda1-74f7bc37f83b",
+                 "contributor":"by E. Lockhart",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0385741278",
+                 "primary_isbn13":"9780385741279",
+                 "publisher":"Ember",
+                 "rank":2,
+                 "rank_last_week":0,
+                 "sunday_review_link":"https:\/\/www.nytimes.com\/2014\/05\/11\/books\/review\/we-were-liars-by-e-lockhart.html",
+                 "title":"WE WERE LIARS",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/We-Were-Liars-E-Lockhart-ebook\/dp\/B00FPOSDGY?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780385741279?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385741279"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWE%252BWERE%252BLIARS%252FE.%252BLockhart%252F9780385741279&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWE%252BWERE%252BLIARS%252BE.%252BLockhart"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385741279&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWE%2BWERE%2BLIARS"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385741279%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWE%2BWERE%2BLIARS%2BE.%2BLockhart%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Girl-Pieces-Kathleen-Glasgow\/dp\/1101934719?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Kathleen Glasgow",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781101934715.jpg",
+                 "book_image_width":328,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/4c61a5f1-f0f8-5184-978c-c7056c96a644",
+                 "contributor":"by Kathleen Glasgow",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1101934743",
+                 "primary_isbn13":"9781101934746",
+                 "publisher":"Ember",
+                 "rank":3,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"GIRL IN PIECES",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Girl-Pieces-Kathleen-Glasgow\/dp\/1101934719?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781101934746?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101934746"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FGIRL%252BIN%252BPIECES%252FKathleen%252BGlasgow%252F9781101934746&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DGIRL%252BIN%252BPIECES%252BKathleen%252BGlasgow"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781101934746&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DGIRL%2BIN%2BPIECES"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781101934746%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DGIRL%2BIN%2BPIECES%2BKathleen%2BGlasgow%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/dp\/1534441603?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Tracy Deonn",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781534441606.jpg",
+                 "book_image_width":328,
+                 "book_image_height":500,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/18c7f534-63c9-52f7-90e4-d74d16b6fdaf",
+                 "contributor":"by Tracy Deonn",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1534441611",
+                 "primary_isbn13":"9781534441613",
+                 "publisher":"Margaret K. McElderry",
+                 "rank":4,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"LEGENDBORN",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/dp\/1534441603?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781534441613?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781534441613"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLEGENDBORN%252FTracy%252BDeonn%252F9781534441613&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLEGENDBORN%252BTracy%252BDeonn"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781534441613&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DLEGENDBORN"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781534441613%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLEGENDBORN%2BTracy%2BDeonn%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/dp\/1368052401?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Jennifer Lynn Barnes",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780759554085.jpg",
+                 "book_image_width":331,
+                 "book_image_height":500,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/e2abd326-9377-54d9-bf9c-5125478dd1c1",
+                 "contributor":"by Jennifer Lynn Barnes",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0759555400",
+                 "primary_isbn13":"9780759555402",
+                 "publisher":"Little, Brown",
+                 "rank":5,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"THE INHERITANCE GAMES",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/dp\/1368052401?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780759555402?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780759555402"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BINHERITANCE%252BGAMES%252FJennifer%252BLynn%252BBarnes%252F9780759555402&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BINHERITANCE%252BGAMES%252BJennifer%252BLynn%252BBarnes"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780759555402&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BINHERITANCE%2BGAMES"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780759555402%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BINHERITANCE%2BGAMES%2BJennifer%2BLynn%2BBarnes%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/Fountains-Silence-Ruta-Sepetys\/dp\/0399160310?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Ruta Sepetys",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780399160318.jpg",
+                 "book_image_width":330,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/875229a2-7966-5049-9ea1-44a7850a383d",
+                 "contributor":"by Ruta Sepetys",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0142423637",
+                 "primary_isbn13":"9780142423639",
+                 "publisher":"Philomel",
+                 "rank":6,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"THE FOUNTAINS OF SILENCE",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/Fountains-Silence-Ruta-Sepetys\/dp\/0399160310?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780142423639?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780142423639"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BFOUNTAINS%252BOF%252BSILENCE%252FRuta%252BSepetys%252F9780142423639&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BFOUNTAINS%252BOF%252BSILENCE%252BRuta%252BSepetys"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780142423639&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BFOUNTAINS%2BOF%2BSILENCE"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780142423639%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BFOUNTAINS%2BOF%2BSILENCE%2BRuta%2BSepetys%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/The-Book-Thief-Markus-Zusak\/dp\/0375842209?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Markus Zusak",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780375842207.jpg",
+                 "book_image_width":321,
+                 "book_image_height":495,
+                 "book_review_link":"https:\/\/www.nytimes.com\/2006\/03\/27\/books\/27masl.html",
+                 "book_uri":"nyt:\/\/book\/535c6937-87ea-5803-a820-cc3cb3114056",
+                 "contributor":"by Markus Zusak",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0375842209",
+                 "primary_isbn13":"9780375842207",
+                 "publisher":"Knopf",
+                 "rank":7,
+                 "rank_last_week":0,
+                 "sunday_review_link":"https:\/\/www.nytimes.com\/2006\/05\/14\/books\/review\/14greenj.html",
+                 "title":"THE BOOK THIEF",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/The-Book-Thief-Markus-Zusak\/dp\/0375842209?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780375842207?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375842207"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBOOK%252BTHIEF%252FMarkus%252BZusak%252F9780375842207&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBOOK%252BTHIEF%252BMarkus%252BZusak"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780375842207&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBOOK%2BTHIEF"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780375842207%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBOOK%2BTHIEF%2BMarkus%2BZusak%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"http:\/\/www.amazon.com\/Six-Crows-Leigh-Bardugo\/dp\/1627792120?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Leigh Bardugo",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781627792127.jpg",
+                 "book_image_width":330,
+                 "book_image_height":491,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/90141a33-530f-5f44-a4b9-90ef74230800",
+                 "contributor":"by Leigh Bardugo",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"125007696X",
+                 "primary_isbn13":"9781250076960",
+                 "publisher":"Square Fish",
+                 "rank":8,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"SIX OF CROWS",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"http:\/\/www.amazon.com\/Six-Crows-Leigh-Bardugo\/dp\/1627792120?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781250076960?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250076960"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSIX%252BOF%252BCROWS%252FLeigh%252BBardugo%252F9781250076960&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSIX%252BOF%252BCROWS%252BLeigh%252BBardugo"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250076960&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSIX%2BOF%2BCROWS"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250076960%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSIX%2BOF%2BCROWS%2BLeigh%2BBardugo%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/dp\/0525555277?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Malinda Lo",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780525555278.jpg",
+                 "book_image_width":331,
+                 "book_image_height":500,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/af17ecaf-8647-5744-8ab5-8343f50a39bb",
+                 "contributor":"by Malinda Lo",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"0525555277",
+                 "primary_isbn13":"9780525555278",
+                 "publisher":"Dutton",
+                 "rank":9,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"LAST NIGHT AT THE TELEGRAPH CLUB",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/dp\/0525555277?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9780525555278?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525555278"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLAST%252BNIGHT%252BAT%252BTHE%252BTELEGRAPH%252BCLUB%252FMalinda%252BLo%252F9780525555278&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLAST%252BNIGHT%252BAT%252BTHE%252BTELEGRAPH%252BCLUB%252BMalinda%252BLo"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525555278&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DLAST%2BNIGHT%2BAT%2BTHE%2BTELEGRAPH%2BCLUB"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525555278%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLAST%2BNIGHT%2BAT%2BTHE%2BTELEGRAPH%2BCLUB%2BMalinda%2BLo%26aff%3DNYT"
+                    }
+                 ]
+              },
+              {
+                 "age_group":"",
+                 "amazon_product_url":"https:\/\/www.amazon.com\/Dear-Martin-Nic-Stone\/dp\/1101939494?tag=NYTBSREV-20",
+                 "article_chapter_link":"",
+                 "author":"Nic Stone",
+                 "book_image":"https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781101939499.jpg",
+                 "book_image_width":328,
+                 "book_image_height":495,
+                 "book_review_link":"",
+                 "book_uri":"nyt:\/\/book\/0a9f4692-2d3f-5471-a2b3-0e09aa776f1e",
+                 "contributor":"by Nic Stone",
+                 "contributor_note":"",
+                 "created_date":"2022-03-03 00:03:15",
+                 "description":"",
+                 "first_chapter_link":"",
+                 "price":"0.00",
+                 "primary_isbn10":"1101939524",
+                 "primary_isbn13":"9781101939529",
+                 "publisher":"Ember",
+                 "rank":10,
+                 "rank_last_week":0,
+                 "sunday_review_link":"",
+                 "title":"DEAR MARTIN",
+                 "updated_date":"2022-03-03 00:03:15",
+                 "weeks_on_list":0,
+                 "buy_links":[
+                    {
+                       "name":"Amazon",
+                       "url":"https:\/\/www.amazon.com\/Dear-Martin-Nic-Stone\/dp\/1101939494?tag=NYTBSREV-20"
+                    },
+                    {
+                       "name":"Apple Books",
+                       "url":"https:\/\/goto.applebooks.apple\/9781101939529?at=10lIEQ"
+                    },
+                    {
+                       "name":"Barnes and Noble",
+                       "url":"https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101939529"
+                    },
+                    {
+                       "name":"Books-A-Million",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FDEAR%252BMARTIN%252FNic%252BStone%252F9781101939529&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DDEAR%252BMARTIN%252BNic%252BStone"
+                    },
+                    {
+                       "name":"Bookshop",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781101939529&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DDEAR%2BMARTIN"
+                    },
+                    {
+                       "name":"IndieBound",
+                       "url":"https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781101939529%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DDEAR%2BMARTIN%2BNic%2BStone%26aff%3DNYT"
+                    }
+                 ]
+              }
+           ]
+        }
+     ]
+  }
+}
