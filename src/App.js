@@ -1,25 +1,24 @@
-import logo from './logo.svg';
+import { useState, useEffect } from 'react';
+import { getCurrentWeeksBestSellers } from './apiCalls';
 import './App.css';
 
-function App() {
+const App = () => {
+  const [lists, setLists] = useState([]);
+  const [date, setDate] = useState('');
+
+  useEffect(() => {
+    const allBestSellersLists = getCurrentWeeksBestSellers()
+      .then(data => {
+        setLists(data.results.lists);
+        setDate(data.results.bestsellers_date)
+      });
+  }, []);
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>New York Times Bestsellers List</h1>
     </div>
-  );
+  )
 }
 
 export default App;
