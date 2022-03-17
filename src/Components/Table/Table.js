@@ -11,13 +11,13 @@ const Table = ({ lists, date }) => {
     const allRows = [];
     lists.forEach(list => {
 
-      const listRows = list.books.map((book, i) => {
-        const purchaseLinks = book.buy_links.map((link, j) => {
-          return <a href={link.url} key={j}>{link.name}</a>
+      const listRows = list.books.map(book => {
+        const purchaseLinks = book.buy_links.map(link => {
+          return <a href={link.url} key={`${book.title}-${link.name}`}>{link.name}</a>
         });
 
         return(
-          <tr key={i}>
+          <tr key={`${list.list_name}-${book.title}`}>
             <td>
               {list.list_name}
             </td>
