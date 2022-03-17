@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { getCurrentWeeksBestSellers } from './apiCalls';
+import { getCurrentWeeksBestsellers } from './apiCalls';
 import Table from './Components/Table/Table.js';
 
 import './App.css';
@@ -9,7 +9,7 @@ const App = () => {
   const [date, setDate] = useState('');
 
   useEffect(() => {
-    const allBestSellersLists = getCurrentWeeksBestSellers()
+    getCurrentWeeksBestsellers()
       .then(data => {
         setLists(data.results.lists);
         setDate(data.results.bestsellers_date)

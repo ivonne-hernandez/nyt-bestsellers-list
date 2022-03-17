@@ -1,6 +1,6 @@
 const apiKey = process.env.REACT_APP_API_KEY;
 
-const getCurrentWeeksBestSellers = () => {
+const getCurrentWeeksBestsellers = () => {
   return fetch(`https://api.nytimes.com/svc/books/v3/lists/full-overview.json?api-key=${apiKey}`)
     .then(response => {
       if (!response.ok) {
@@ -11,5 +11,5 @@ const getCurrentWeeksBestSellers = () => {
 }
 
 module.exports = {
-  getCurrentWeeksBestSellers
+  getCurrentWeeksBestsellers
 }
